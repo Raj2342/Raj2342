@@ -62,3 +62,9 @@ My core focus is executing advanced SQL data transformations, building low-laten
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
   <img src="https://img.shields.io/badge/Seaborn_&_Matplotlib-013243?style=flat&logo=python&logoColor=white" alt="Seaborn & Matplotlib">
 </p>
+
+## 🛡️ Core Data Competencies
+
+*   **End-to-End Data Lifecycle Management:** Capable of navigating and managing data from raw external ingestion through to final analytical presentation layers, prioritizing optimal storage formats and archival efficiency.
+*   **Data Governance & Compliance (GCP Foundation):** Trained in structuring secure data environments, enforcing Role-Based Access Control (RBAC), handling sensitive identifiers (PII), and maintaining stringent security standards.
+*   **ELT & Pipeline Architecture:** Focused on engineering robust data workflows that enforce strict integrity, comprehensive testing, and version-controlled transformations to guarantee absolute reliability in business intelligence deliverables.
