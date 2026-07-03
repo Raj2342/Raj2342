@@ -18,32 +18,47 @@ My core focus is executing advanced SQL data transformations, building low-laten
       
 ## 🔭 Projects
 
-- **Promotional Waste Audit & Margin Optimization:** Architected an automated ELT pipeline processing 411M+ rows with multi-table of e-commerce behavioral data, diagnosing a $2M cart abandonment bleed and optimizing a margin-eroding discount strategy[cite: 1].
-- **SaaS LTV Optimization & Optimizing Marketing Spend:** Engineered an LTV-based acquisition model analyzing 22M+ transaction records and 6M members detail with multi-table for a B2C SaaS platform, identifying severe marketing cash burn and strategic reallocation metrics toward high-retention "Power Users"[cite: 1].
-- **Market Basket Analysis & Cross-Selling Engine:** Engineered a cross-selling recommendation engine by performing Market Basket Analysis on 2M+ transactions and 92K products to maximize Average Order Value (AOV)[cite: 1].
-- **Competitive Intelligence & Market Share Analytics:** Spearheaded a competitive intelligence initiative analyzing 10M+ rows of retail data to pinpoint revenue bleed, market share erosion, and physical shelf-space loss against primary competitors[cite: 1]. Engineered a high-performance, zero-infrastructure data pipeline within Google Colab, leveraging Parquet files and a DuckDB hybrid SQL/Python workflow to process massive datasets entirely in-memory[cite: 1].
+- **Promotional Waste Audit & Margin Optimization:** Architected an automated ELT pipeline processing 411M+ rows with multi-table of e-commerce behavioral data, diagnosing a $2M cart abandonment bleed and optimizing a margin-eroding discount strategy.
+- **SaaS LTV Optimization & Optimizing Marketing Spend:** Engineered an LTV-based acquisition model analyzing 22M+ transaction records and 6M members detail with multi-table for a B2C SaaS platform, identifying severe marketing cash burn and strategic reallocation metrics toward high-retention "Power Users".
+- **Market Basket Analysis & Cross-Selling Engine:** Engineered a cross-selling recommendation engine by performing Market Basket Analysis on 2M+ transactions and 92K products to maximize Average Order Value (AOV).
+- **Competitive Intelligence & Market Share Analytics:** Spearheaded a competitive intelligence initiative analyzing 10M+ rows of retail data to pinpoint revenue bleed, market share erosion, and physical shelf-space loss against primary competitors. Engineered a high-performance, zero-infrastructure data pipeline within Google Colab, leveraging Parquet files and a DuckDB hybrid SQL/Python workflow to process massive datasets entirely in-memory.
 
 ## 🛠️ Technical Skillset
 
-#### Data Engineering & Cloud Infrastructure
+#### Languages & Querying
 <p>
-  <img src="https://img.shields.io/badge/dbt_Core-Expert-FF6B6B?style=flat&logo=dbt&logoColor=white" alt="dbt Core Skill Badge">
-  <img src="https://img.shields.io/badge/DuckDB-Advanced-FFF100?style=flat&logo=duckdb&logoColor=black" alt="DuckDB Skill Badge">
-  <img src="https://img.shields.io/badge/Google_BigQuery-Expert-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="BigQuery Skill Badge">
-  <img src="https://img.shields.io/badge/AWS_Athena-Advanced-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Skill Badge">
-  <img src="https://img.shields.io/badge/Snowflake-Advanced-29B5E8?style=flat&logo=snowflake&logoColor=white" alt="Snowflake Skill Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black" alt="DAX">
 </p>
 
-#### Data Analysis & Visualization
+#### Cloud Platforms
 <p>
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power_BI-Advanced_DAX-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Power_Query_and_Pivot-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="BigQuery">
+  <img src="https://img.shields.io/badge/Google_Cloud_Storage-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Bucket">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" alt="Snowflake">
+  <img src="https://img.shields.io/badge/AWS_Athena-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="Athena">
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white" alt="S3 Bucket">
 </p>
 
-#### Programming & Operations
+#### Data Engineering Architecture
 <p>
-  <img src="https://img.shields.io/badge/Python-Pandas_and_NumPy-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/Git_/_GitHub-Version_Control-181717?style=flat&logo=github&logoColor=white" alt="Git Skill Badge">
+  <img src="https://img.shields.io/badge/dbt_Core-FF6B6B?style=flat&logo=dbt&logoColor=white" alt="dbt Core">
+  <img src="https://img.shields.io/badge/DuckDB_(Hybrid)-FFF100?style=flat&logo=duckdb&logoColor=black" alt="DuckDB">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+#### Data Notebooks
+<p>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab">
+  <img src="https://img.shields.io/badge/Snowflake_Notebooks-29B5E8?style=flat&logo=snowflake&logoColor=white" alt="Snowflake Notebooks">
+  <img src="https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="Amazon SageMaker">
+</p>
+
+#### Visualization & Reporting
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Seaborn_&_Matplotlib-013243?style=flat&logo=python&logoColor=white" alt="Seaborn & Matplotlib">
 </p>
