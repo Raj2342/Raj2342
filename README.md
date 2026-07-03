@@ -15,19 +15,13 @@
 I am an Operational Data Analyst and Analytics Engineer specializing in translating complex business workflows into highly structured, scalable data models. I possess hands-on expertise in engineering high-performance ELT workflows, diagnostic frameworks (LTV optimization, Market Basket Analysis), and cross-selling analytical engines. 
 
 My core focus is executing advanced SQL data transformations, building low-latency analytical layer frameworks using dbt Core and in-memory engines like DuckDB, and delivering production-ready dashboards that eliminate operational manual overhead. I am deeply passionate about data quality, edge-case structural scenario design, and strict validation to build pristine business intelligence pipelines.
-
-### [🏆 Check Out My Full Portfolio Website](https://raj-analytics.netlify.app/)
       
-## 🔭 What I'm Currently Working On 
+## 🔭 Projects
 
-- **Promotional Waste Audit & Margin Optimization:** Architected an automated ELT pipeline processing **411M+ rows** of e-commerce data using a hybrid DuckDB + BigQuery staging pipeline to drastically cut down cloud compute costs.
-- **SaaS LTV Optimization & Retention Modeling:** Constructed a serverless data lakehouse analyzing **22M+ records** utilizing AWS S3, Athena, and modular dbt Core pipelines to track granular user churn dynamics.
-- **Market Basket Cross-Selling Engine:** Engineered an association rule model in Snowflake leveraging local DuckDB integration to isolate low-retention impulse buying patterns from high-value subscription trends.
-
-## 🌱 Currently Learning 
-
-- Multi-cloud orchestration and advanced containerized data transformation networks.
-- Next-generation LLM reasoning optimization pathways using clean data asset structuring and rigorous semantic layer frameworks.
+- **Promotional Waste Audit & Margin Optimization:** Architected an automated ELT pipeline processing 411M+ rows with multi-table of e-commerce behavioral data, diagnosing a $2M cart abandonment bleed and optimizing a margin-eroding discount strategy[cite: 1].
+- **SaaS LTV Optimization & Optimizing Marketing Spend:** Engineered an LTV-based acquisition model analyzing 22M+ transaction records and 6M members detail with multi-table for a B2C SaaS platform, identifying severe marketing cash burn and strategic reallocation metrics toward high-retention "Power Users"[cite: 1].
+- **Market Basket Analysis & Cross-Selling Engine:** Engineered a cross-selling recommendation engine by performing Market Basket Analysis on 2M+ transactions and 92K products to maximize Average Order Value (AOV)[cite: 1].
+- **Competitive Intelligence & Market Share Analytics:** Spearheaded a competitive intelligence initiative analyzing 10M+ rows of retail data to pinpoint revenue bleed, market share erosion, and physical shelf-space loss against primary competitors[cite: 1]. Engineered a high-performance, zero-infrastructure data pipeline within Google Colab, leveraging Parquet files and a DuckDB hybrid SQL/Python workflow to process massive datasets entirely in-memory[cite: 1].
 
 ## 🛠️ Technical Skillset
 
