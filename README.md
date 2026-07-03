@@ -1,26 +1,64 @@
-## Hi there 👋
+## Hi there, I'm RAJ 👋
 
-# 💫 About Me:
-🔭 I’m currently working on building high-performance serverless data pipelines and optimizing business analytics models.<br>👯 I’m looking to collaborate on open-source modern data stack tools, dbt architectures, or advanced data modeling workflows.<br>🤔 I’m looking for help with deep production scale optimizations for real-time analytical engines.<br>🌱 I’m currently learning advanced cloud cost-optimization strategies and multi-cloud data orchestration patterns.<br>💬 Ask me about SQL, Python, dbt Core, DuckDB, Google BigQuery, AWS S3/Athena, Snowflake, and Power BI.<br>⚡ Fun fact: I have executed hybrid data pipelines processing over 400 Million rows entirely in-memory using DuckDB!
+<div align="center">
+  <!-- Typing SVG dynamically updated with your advanced enterprise stack -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Analytics+Engineer;400M%2B+Rows+Pipeline+Architect;dbt+Core+%2526+DuckDB+Optimization;GCP+%2526+AWS+Cloud+Data+Marts" alt="Typing SVG" />
+</div>
 
+<!-- 🔗 Verified Contact Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/raj-1825512b7"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://raj-analytics.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-purple?style=for-the-badge&logo=google-chrome"></a>
+  <a href="mailto:rajr59110@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+</p>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://raj-analytics.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raj-1825512b7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajr59110@gmail.com) 
+## 🚀 About Me 
+I am an Operational Data Analyst and Analytics Engineer specializing in translating complex business workflows into highly structured, scalable data models. I possess hands-on expertise in engineering high-performance ELT workflows, diagnostic frameworks (LTV optimization, Market Basket Analysis), and cross-selling analytical engines. 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Raj2342&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Raj2342&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Raj2342&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+My core focus is executing advanced SQL data transformations, building low-latency analytical layer frameworks using dbt Core and in-memory engines like DuckDB, and delivering production-ready dashboards that eliminate operational manual overhead. I am deeply passionate about data quality, edge-case structural scenario design, and strict validation to build pristine business intelligence pipelines.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Raj2342&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### [🏆 Check Out My Full Portfolio Website](https://raj-analytics.netlify.app/)
+      
+## 🔭 What I'm Currently Working On 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Raj2342&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- **Promotional Waste Audit & Margin Optimization:** Architected an automated ELT pipeline processing **411M+ rows** of e-commerce data using a hybrid DuckDB + BigQuery staging pipeline to drastically cut down cloud compute costs.
+- **SaaS LTV Optimization & Retention Modeling:** Constructed a serverless data lakehouse analyzing **22M+ records** utilizing AWS S3, Athena, and modular dbt Core pipelines to track granular user churn dynamics.
+- **Market Basket Cross-Selling Engine:** Engineered an association rule model in Snowflake leveraging local DuckDB integration to isolate low-retention impulse buying patterns from high-value subscription trends.
 
----
-[![](https://komarev.com/ghpvc/?username=Raj2342&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌱 Currently Learning 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Multi-cloud orchestration and advanced containerized data transformation networks.
+- Next-generation LLM reasoning optimization pathways using clean data asset structuring and rigorous semantic layer frameworks.
+
+## 🛠️ Technical Skillset
+
+#### Data Engineering & Cloud Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/dbt_Core-Expert-FF6B6B?style=flat&logo=dbt&logoColor=white" alt="dbt Core Skill Badge">
+  <img src="https://img.shields.io/badge/DuckDB-Advanced-FFF100?style=flat&logo=duckdb&logoColor=black" alt="DuckDB Skill Badge">
+  <img src="https://img.shields.io/badge/Google_BigQuery-Expert-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="BigQuery Skill Badge">
+  <img src="https://img.shields.io/badge/AWS_Athena%20%2F%20S3-Advanced-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Skill Badge">
+  <img src="https://img.shields.io/badge/Snowflake-Advanced-29B5E8?style=flat&logo=snowflake&logoColor=white" alt="Snowflake Skill Badge">
+</p>
+
+#### Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Power_BI-Advanced_DAX-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Power_Query_%2526_Pivot-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+</p>
+
+#### Programming & Operations
+<p>
+  <img src="https://img.shields.io/badge/Python-Pandas_%2526_NumPy-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Git_/_GitHub-Version_Control-181717?style=flat&logo=github&logoColor=white" alt="Git Skill Badge">
+</p>
+
+#### Diagnostic & Business Intelligence
+<p>
+  <img src="https://img.shields.io/badge/LTV_Optimization-Expert-FF6B6B?style=flat" alt="LTV Optimization Skill Badge">
+  <img src="https://img.shields.io/badge/Market_Basket_Analysis-Expert-4ECDC4?style=flat" alt="Market Basket Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Margin_Diagnosis-Expert-45B7D1?style=flat" alt="Margin Diagnosis Skill Badge">
+  <img src="https://img.shields.io/badge/KPI_Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+</p>
