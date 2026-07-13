@@ -68,3 +68,7 @@ My core focus is executing advanced SQL data transformations, building low-laten
 *   **End-to-End Data Lifecycle Management:** Capable of navigating and managing data from raw external ingestion through to final analytical presentation layers, prioritizing optimal storage formats and archival efficiency.
 *   **Data Governance & Compliance (GCP Foundation):** Trained in structuring secure data environments, enforcing Role-Based Access Control (RBAC), handling sensitive identifiers (PII), and maintaining stringent security standards.
 *   **ELT & Pipeline Architecture:** Focused on engineering robust data workflows that enforce strict integrity, comprehensive testing, and version-controlled transformations to guarantee absolute reliability in business intelligence deliverables.
+
+## contect detail: 
+email: rajr59110@gmail.com
+phone: +91 6387287539
